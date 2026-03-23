@@ -40,6 +40,11 @@ yarn-error.*
 # test coverage
 coverage/
 
+# reports and references
+code-review-reports/
+unit-testing-reports/
+references/
+
 # generated native folders
 /ios
 /android
